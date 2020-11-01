@@ -10,3 +10,4 @@ The dataset was taken from the TLC New York taxi data and New York National Weat
 
 ## Info
 
+This project was a submission for The University of Melbourne's Applied Data Science (MAST30034) assignment 1
