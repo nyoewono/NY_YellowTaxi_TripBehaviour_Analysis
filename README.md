@@ -10,7 +10,7 @@ The dataset was taken from the TLC New York taxi data and New York National Weat
 
 ## Report
 
-The report can be found in this link: https://github.com/nyoewono/NY_YellowTaxi_Ratings/blob/main/report.pdf
+The report can be found in this link: https://github.com/nyoewono/NY_YellowTaxi_TripBehaviour_Analysis/blob/main/report.pdf
 
 ## Info
 
