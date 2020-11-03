@@ -8,6 +8,10 @@ The dataset was taken from the TLC New York taxi data and New York National Weat
 * Taxi: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 * Weather: https://w2.weather.gov/climate/xmacis.php?wfo=okx
 
+## Report
+
+The report can be found in this link: https://github.com/nyoewono/NY_YellowTaxi_Ratings/blob/main/report.pdf
+
 ## Info
 
 This project was a submission for The University of Melbourne's Applied Data Science (MAST30034) assignment 1
